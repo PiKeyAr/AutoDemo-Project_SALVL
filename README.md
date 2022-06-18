@@ -6,4 +6,4 @@ To install the Autodemo project, do the following:
 2. Extract the contents of this fork to the project folder (overwrite any existing files).
 3. Open the project in SALVL like usual and you will be able to explore Beta Windy Valley.
 
-See the [wiki](https://github.com/PiKeyAr/AutoDemo-Project_SALVL/wiki) for more information on Autodemo Windy Valley.
+See the [wiki](https://github.com/x-hax/AutoDemo-Project_SALVL/wiki) for more information on Autodemo Windy Valley.
