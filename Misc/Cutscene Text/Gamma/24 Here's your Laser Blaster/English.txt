@@ -1,2 +1,0 @@
-Here's your Laser Blaster.
-Its blast damages enemies \nin a wide pattern.

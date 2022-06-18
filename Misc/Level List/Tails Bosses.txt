@@ -1,3 +1,0 @@
-EggHornet 0
-Chaos4 0
-EggWalker 0

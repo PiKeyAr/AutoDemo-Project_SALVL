@@ -1,6 +1,9 @@
-# AutoDemo Project for SADXLVL2
-Resources for making custom layouts, textures, etc. for the Sonic Adventure AutoDemo suite of mods.
+# AutoDemo Windy Valley Project for SALVL
+This is a fork of [this project] to make it work with the latest version of SA Tools.
 
-Please use the resources on the Wiki page for assistance when working with these tools.
+To install the Autodemo project, do the following:
+1. Make a new Dreamcast - SA1 Autodemo project in SA Tools Hub.
+2. Extract the contents of this fork to the project folder (overwrite).
+3. Run SALVL on the project like usual and you will be able to explore Beta Windy Valley.
 
-There is an Installation Guide [here](https://github.com/ItsEasyActually/AutoDemo-Project_SADXLVL2/wiki/Installation-Guide)
+Some info on this level:

@@ -1,1 +1,0 @@
-Emergency alert has been cancelled!\nResuming monorail operation.
