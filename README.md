@@ -9,8 +9,8 @@ Although SA Tools can create an Autodemo project and you can open Windy Valley i
 - Extra objects added in the mod
 
 To install the Autodemo project, do the following:
-1. Click [Code - Download ZIP](https://github.com/X-Hax/AutoDemo-Project_SALVL/archive/refs/heads/master.zip).
 1. Make a new Dreamcast - SA1 Autodemo project in [SA Tools Hub](https://github.com/X-Hax/sa_tools/wiki/SA-Tools-Hub#creating-a-project).
+2. Click [Code - Download ZIP](https://github.com/X-Hax/AutoDemo-Project_SALVL/archive/refs/heads/master.zip) to download the package.
 2. Extract the contents of the folder `AutodemoProject` in the ZIP file to the project folder (overwrite any existing files).
 3. Open the project in [SALVL](https://github.com/X-Hax/sa_tools/wiki/SALVL) like usual and you will be able to explore Beta Windy Valley.
 
